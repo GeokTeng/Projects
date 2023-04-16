@@ -39,7 +39,7 @@ Our focused and dataset will be on the games from [*Steam*](https://store.steamp
 >CountVectorizer(stop_words = 'english',max_features=1500)
 
 **Model used**:
->Random Forest
+>Multinomial Naive Bayes
 
 **Performance**:
 > ![](images/baseline_model_metrics.jpg)

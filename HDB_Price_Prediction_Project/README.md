@@ -6,7 +6,11 @@
 **Objectives**<br>
 > Develop a predictive model for the entrepreneur
 
-**Notebooks**
+**Notebooks**<br>
+[01_DataCleaning](https://github.com/GeokTeng/Projects/blob/main/HDB_Price_Prediction_Project/Notebooks/01_DataCleaning.ipynb)<br>
+[02_EDA](https://github.com/GeokTeng/Projects/blob/main/HDB_Price_Prediction_Project/Notebooks/02_EDA.ipynb)<br>
+[03_Model](https://github.com/GeokTeng/Projects/blob/main/HDB_Price_Prediction_Project/Notebooks/03_Model.ipynb)<br>
+
 
 **README Overview**<br>
 [1. Data](#ID1)<br>

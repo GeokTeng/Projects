@@ -28,6 +28,8 @@ The features belong to one of the following group:
 1. Location-related features
 1. Facilities-related features
 
+*Due to the limitation in uploading csv onto github, you may view the data files in this [Google Drive link](https://drive.google.com/drive/folders/1LdzLRgFoI76I_7_jFS0ODgXjd8njFK1N?usp=share_link)*
+
 # 2. Approach:<a class="anchor" id="ID2"></a>
 
 |Approach|Description|

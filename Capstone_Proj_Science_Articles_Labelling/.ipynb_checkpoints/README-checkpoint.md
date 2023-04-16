@@ -16,9 +16,6 @@ This document provide a description of the project.
 - 04_BaselineModel
 - 05_Model_Improvement
 
-**View Data files**
-You may view the data files from GoogleDrive using this [link](https://drive.google.com/drive/folders/171BFvVX70HS89Mlm0vPIXAZQMYB87kSy?usp=share_link).
-
 # 1. Problem Statment <a class="anchor" id="ID_1"></a>
 
 Multi-label classification can be seen in many context. For example in the world of news, we label them *'Political'*, *'Sports'* or *'Business & Finance'*. It can also be seen in the entertainment world, such as labelling a movie *'Horror'*, *'Comedy'* or *'Fantasy'*. In the science community, multi-label classification has great potential in handling huge databases of scientific publications.<br><br>

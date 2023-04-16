@@ -33,6 +33,8 @@ Our focused and dataset will be on the games from [*Steam*](https://store.steamp
 |Target variable column: <code>Good Games</code>|**Good Game or Poor Game**<br><br>We followed how *Steam* labelled a game as postive review type; games that are classified as 'Positive' reviewed are the games with at least 70% of postive reviews. Such game are classified as 'Good' game, else they are 'Poor' games.| Resulting dataframe contains 27+K data rows and 11 columns.|
 |EDA|<li>Correlation analysis</li><li>Distribution</li>|Some key findings from EDA:<br><br><li>**About 72% of the games are 'Good' games. </li><li>As such, <code>our model aims to give precision much higher than 72%.**</code></li><li>A correlation anlysis there does not appear an obvious correlation between price, total reviews and year of game release to the percentage of positive reviews.</li><li> Majority of the games were released from 2017 onwards. Possibly this was the year where Steam has been more actively recorded game data.</li><li>The games generally received 60% positive reviews.</li><li>About 75% of the games have 90 or less number of reviews</li>|
 
+*You may view the data files in Google Drive using this [link](https://drive.google.com/drive/folders/182g6lijZRg5mhBssNHdw0gbl6ZGm9ZT5?usp=share_link)*
+
 # Baseline Model (Preprocessing, modelling, evaluation)
 
 **Process involved**:

@@ -16,9 +16,6 @@ This document provide a description of the project.
 - 04_BaselineModel
 - 05_Model_Improvement
 
-**View Data files**
-You may view the data files from GoogleDrive using this [link](https://drive.google.com/drive/folders/171BFvVX70HS89Mlm0vPIXAZQMYB87kSy?usp=share_link).
-
 # 1. Problem Statment <a class="anchor" id="ID_1"></a>
 
 Multi-label classification can be seen in many context. For example in the world of news, we label them *'Political'*, *'Sports'* or *'Business & Finance'*. It can also be seen in the entertainment world, such as labelling a movie *'Horror'*, *'Comedy'* or *'Fantasy'*. In the science community, multi-label classification has great potential in handling huge databases of scientific publications.<br><br>
@@ -61,6 +58,10 @@ Articles to diseases from [PubMed](https://pubmed.ncbi.nlm.nih.gov/) are obtaine
 - Article Given MeSH
 
 At the same time, we collect disease-associated terms from [MedlinePlus](https://medlineplus.gov) by NLM and [(NLM) MeSH database](https://www.nlm.nih.gov/databases/download/mesh.html) itself (which contains NCBI collection of standardised MeSH).
+
+**View Data files**<br>
+You may view the data files from GoogleDrive using this [link](https://drive.google.com/drive/folders/171BFvVX70HS89Mlm0vPIXAZQMYB87kSy?usp=share_link).
+
 
 # 3. Approach <a class="anchor" id="ID_3"></a>
 While subsequent subsections here will give more details of the processes done, an overview of the project's approach can be understood through the image provided below:<br>

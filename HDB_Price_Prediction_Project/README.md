@@ -91,6 +91,7 @@ Housing prices are typically non-linearly related to their predictors, meaning t
 **Comments on features with strong influence on HDB resale price:**<br>
 TOP 20 Absolute Coefficient value from <code>RIDGE REGULARISATION REGRESSION</code><br>
 ![](img/Apprch2_Ridge_Coef.jpg)
+
 After removing <code>address</code> as a feature used for modelling, other location-related feature <code>street_name</code> appear to significantly influence the HDB prices. <code>street_name</code> related categories features appear very frequently among the features with top 20 absolute coefficient value.
 
 That being said, we also noticed certain schools (e.g.Henry Park Primary School) and MRT stations (e.g. Labrador Park) have key influence on HDB prices as well.

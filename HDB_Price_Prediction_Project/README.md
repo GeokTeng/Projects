@@ -11,6 +11,10 @@
 > - Explore features that have significant infuence on HDB prices
 
 **Notebooks**
+[01_DataCleaning](https://github.com/GeokTeng/Projects/blob/main/HDB_Price_Prediction_Project/Notebooks/01_DataCleaning.ipynb)<br>
+[02_EDA](https://github.com/GeokTeng/Projects/blob/main/HDB_Price_Prediction_Project/Notebooks/02_EDA.ipynb)<br>
+[03_Model](https://github.com/GeokTeng/Projects/blob/main/HDB_Price_Prediction_Project/Notebooks/03_Model.ipynb)<br>
+[04_Further_Modelling_Exploration](https://github.com/GeokTeng/Projects/blob/main/HDB_Price_Prediction_Project/Notebooks/04_Further_Modelling_Exploration.ipynb)
 
 **README Overview**<br>
 [1. Data](#ID1)<br>

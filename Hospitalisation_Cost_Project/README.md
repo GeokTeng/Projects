@@ -20,10 +20,12 @@ As hospital data scientists, we aim to:
 **TOTAL BILL PER HOSPITALISATION**
 
 - Follow normal distribution
-- The bill ranges from \~\\$2.9K to \~\\$99K.
-- Average bill is about \\$20K.
-- 2.8% of the bill is very large and are outliers (\>\\$44.5K)"
+    - As the `Shapiro-Wilk` test shows p<0.05, we reject the null hypothesis that the distribution is not normal → it follows a normal distribution.
+- The bill ranges from about 2.9K to about 99K.
+- Average bill is about \$20K.
+- 2.8% of the bill is very large and are outliers (\>\$44.5K)"
 
+![](images/hospital_bill_dist.jpg)
 
 **DEMOGRAPHIC**<br>
 Demographic analysis show similar distributions when analysis conducted across 3000 unique patients and 3400 hospitalisation case.<br>
@@ -44,15 +46,15 @@ Demographic analysis show similar distributions when analysis conducted across 3
 |---|---|
 |`Lab Results`|Some outliers detected, but unable to comment further without understanding what are these lab results specifically
 |`BMI`|Most of the patients do not have healthy body weight, mostly oerweight/obese
-|'MEDICAL HISTORY'||
+|**'MEDICAL HISTORY'**||
 |`Number of medical history:`|<ul><li>Most hospitalisation cases have patient with at least one medical history<li>Some hospitalisation cases have patient with multiple medical history<li>Observed highest number of medical history is 5 out of 7.</ul>
 |`Prevalence of each medical history`|<ul><li> Higher prevalence medical histories are `2`, `6` & `7`<li>Least prevalence medical histories are `4` & `5`.</ul>
-|SYMPTOMS||
+|**SYMPTOMS**||
 |`Number of symptoms`|<ul><li>Most hospitalisation cases have patient with at least 3 symptoms<li>Observed highest number of medical history is 5.</ul>
 |`Prevalence of each medical history`|<ul><li> Highest prevalence seen for `symptom_4`<li>Least prevalence symptoms are `3` & `5`.</ul>
-|PRE-OP MEDICATION||
+|**PRE-OP MEDICATION**||
 |`Number of pre-op meds:`|<ul><li>Most hospitalisation cases have patient with at least 4 pre-op medications<li>Observed highest number of pre-op medications is 6.</ul>
-|- `Prevalence of each pre-op med:`|<ul><li>Highest prevalence pre-op med observed were 5 and 3<li>Least prevalence symptoms are 1 & 4.</ul>
+|`Prevalence of each pre-op med:`|<ul><li>Highest prevalence pre-op med observed were 5 and 3<li>Least prevalence symptoms are 1 & 4.</ul>
 ## Potential factors influencing hospital bills identified:
 ### Linear Relationship with Quantitative variables
 ![](images/corerlation_heatmap.jpg)<br>
@@ -103,8 +105,9 @@ Furthermore, it make sense as:<br>
 ### RandomForestRegressor:
 - The models perform generally poorer than statistical models which has R2 score 90-94%, while the RandomForestRegressors have R2 score 87-92.5%.
 - The best model in this section is `RandomForestRegressor_4fold_sub3col` with test R2 of 92.5% and train-test R2 difference of 4.8%.
-​
+
 There are a few interesting observations in our exploration with `RandomForestRegressor`:
+
 |Observation|Remarks|
 |---|---|
 |`Variance-bias tradeoff`|As the hyperparameter tunes and obtain `lower variance`, it reduces the gap between train and test metric (model less overfitting). Meanwhile, we observe that the model's performance on the test set reduces as the bias increases.|

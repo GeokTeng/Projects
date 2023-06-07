@@ -128,7 +128,7 @@ Selected Best Model: `XGBRegressor_4fold_sub3col`<br>
 - `R2 score` 1318
     
 What this translates to is:<br>
-Given a patient information during hospitalisation (found in `sub3col`), it is able to estimate the hospital bill with about ~5% and \\$1.3K off the true bill value. 
+- Given a patient information during hospitalisation (found in `sub3col`), it is able to estimate the hospital bill with about 5% and SGD 1.3K off the true bill value. 
 ---
 # Feature Importance (Key Drivers of Cost)
 ![](images/feature_imp_statsmodel.png)<br>
@@ -156,7 +156,7 @@ We have met out aims of the task:<br>
     - `MAPE score` 4.76%
     - `R2 score` 1318
     - What this translates to is:
-        - Given a patient information during hospitalisation (found in `sub3col`), it is able to estimate the hospital bill with about ~5% and \\$1.3K off the true bill value. 
+        - Given a patient information during hospitalisation (found in `sub3col`), it is able to estimate the hospital bill with about about 5% and SGD1.3K off the true bill value. 
         
 **Limitations**
 1. Did not explore non-linear relationship between hospitalisation bill with other quantitative features:

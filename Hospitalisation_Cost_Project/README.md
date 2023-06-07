@@ -86,7 +86,7 @@ We can infer that patients older in age and patients with more symptoms tend to 
 
 **General Observations**
 - The models perform generally well
-- The simplest model Linear Regression using all the original datasize and columns performs well without overfittin, with test R2 score of 93%
+- The simplest model Linear Regression using all the original datasize and columns performs well without overfitting, with test R2 score of 93%
 - There is no overfitting as the differene between train and test R2 score is <5%
 - The models are also not underfitting, in fact, performs well on test set with general R2 score>90% and MAPE <10%, which meet our initial target model metric performance.
 - While all the models appear to have very similar performance (R2 range narrowly between 90-94%), we would like to zoom in a little more to observe differences in performance across the differet approach.

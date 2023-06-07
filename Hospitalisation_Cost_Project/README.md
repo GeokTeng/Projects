@@ -32,7 +32,7 @@ Demographic analysis show similar distributions when analysis conducted across 3
 |Feature|Observation|Remarks|
 |---|---|---|
 |Gender|Relatively balanced (50.1% : 49.9%)||
-|Race|Chinese appears to be dominant racial group (63.7%)|Racial profile may influence hospitalisation bill because:<br><li>Difference ethinicities predispose individuals to certain medical conditions ([reference](https://www.singhealth.com.sg/news/tomorrows-medicine/new-study-uncovers-genetic-risks-of-getting-disease-among-different-ethnicities-in-singapore))<li>Hospitalisation bill is influenced by the treatment received for medical conditions<li>It is possible we may observe a particular ethnic group tend to have higher/lower bill as a result of particular disease conditions that the ethnic group tends to have.|
+|Race|Chinese appears to be dominant racial group (63.7%)|Racial profile may influence hospitalisation bill because:<br><li>Different ethinicities predispose individuals to certain medical conditions ([reference](https://www.singhealth.com.sg/news/tomorrows-medicine/new-study-uncovers-genetic-risks-of-getting-disease-among-different-ethnicities-in-singapore))<li>Hospitalisation bill is influenced by the treatment received for medical conditions<li>It is possible we may observe a particular ethnic group tend to have higher/lower bill as a result of particular disease conditions that the ethnic group tends to have.|
 |Resident Status|Singapore citizen  appears to be dominant group (80.1%)|Resident status have influence on hospitalisation bill, as it determines if the individual is eligible for government subsidies ([reference](https://www.guidemesingapore.com/business-guides/immigration/get-to-know-singapore/healthcare-in-singapore))|
 |Age|<li>Generally two main groups of patients (Younger between 22-55yo) and (Older 55-85yo)<li>Middle-aged patients (40s-mid60s) dominates over young(20s - 30s) and senior individuals (above 65yo)| We may observe older patients with more complicatios which will require more complex medical attentions|
 
@@ -65,12 +65,14 @@ Other quantitative features does appear to have insignificant correlation with `
 
 We can infer that patients older in age and patients with more symptoms tend to have higher hospital bill, likely due to greater medical care needed.
 ### Difference in hospitalisation cost among different Categorical classes
-Mann-Whiteney U test is used to find statitical signficant difference in hospitalisation bill between the classes. If p<0.05, we reject null hypothesis, and infer that there is statistical significant difference in hospitalisation bill between the classes.
+`Mann-Whiteney U test` is used to find statistical signficant difference in hospitalisation bill between the classes. If p<0.05, we reject null hypothesis, and infer that there is statistical significant difference in hospitalisation bill between the classes.
+                                                                                                                                 
+**Showing Categorical features with `Mann-Whiteney U test` p<0.05**<br>
 ![](images/mann_whiteney.jpg)<br>
 ![](images/violin_plots_output.png)<br>
-- Significant different in hospital bill distribution found among different gender, race and residential status
+- Significant difference in hospital bill distribution found among different gender, race and residential status
     - More evidently, from the violinplot, patient who were `foreigner` appear to have higher hospital bill
-- Significant different in hospital bill distribution also found among patient with and without certain medical histories, pre-op medication and symptoms
+- Significant difference in hospital bill distribution also found among patient with and without certain medical histories, pre-op medication and symptoms
     - More evidently, from the violinplot, patient with `symptom_5` appear to have higher hospital bill
 
                                                                                                                               
@@ -88,7 +90,7 @@ Mann-Whiteney U test is used to find statitical signficant difference in hospita
 - There is no overfitting as the differene between train and test R2 score is <5%
 - The models are also not underfitting, in fact, performs well on test set with general R2 score>90% and MAPE <10%, which meet our initial target model metric performance.
 - While all the models appear to have very similar performance (R2 range narrowly between 90-94%), we would like to zoom in a little more to observe differences in performance across the differet approach.
-- Amonge the Elastic Net models, the better performing models have l1_ratio of 0.9: favor L2 Lasso regularisation.
+- Among the Elastic Net models, the better performing models have l1_ratio of 0.9: favor L2 Lasso regularisation.
                                                                                                                     
 `All columns` appear to give better model performance.<br>
 `4-fold` data size appear to give better model performance.<br>
@@ -97,8 +99,8 @@ These are identified as these models appear with higher R2 score than their coun
 
 Furthermore, it make sense as:<br>
 `All columns` allows more columns subjected to the regularization.<br>
-`4-fold` all model to train better with better representation of the population<br>
-`Elastic Net` allow use of l1 and l2 regularization<br>
+`4-fold` allows model to train better with better representation of the population<br>
+`Elastic Net` allows use of l1 and l2 regularization<br>
 
 ## Machine Learning Model Performance
 ![](images/machinelearningmodels.png)
@@ -125,7 +127,7 @@ There are a few interesting observations in our exploration with `RandomForestRe
 |Machine Learning Model|<li>2 Model types: RandomForestRegressor, XGBoostRegressor<li>4 Xdata sets used (Datasize: 4fold, Column set: allcol, sub1col, sub2col, sub3col)<li>Total 8 trained machine learning models<br><br><li>`RandomForestRegressor` appear to perform similar or poorer than the statistical modesl with R2 score ranging from 87.6% to 92.5%<li>`XGBRegressor` appear to perform best with R2 score around 98% without overfitting, except when using `sub2col` which has the smallest set of columns.|
     
 Selected Best Model: `XGBRegressor_4fold_sub3col`<br>
-- Rationale: The models peformance across other 2 XGBRegressors are similar. We then look at the columns used. We selected the model that used the selected important features identified from statistical modelling as these are the key features identified through modelling (compared to the other approach which is through pre-modelling simplier analysis).
+- Rationale: The models peformance across other 2 XGBRegressors are similar. We then look at the columns used. We selected the model that used the selected important features identified from statistical modelling as these are the key features identified through modelling (compared to the other approach which is through pre-modelling simpler analysis).
 - `R2 score` 97.8%
 - `MAPE score` 4.76%
 - `R2 score` 1318
@@ -163,7 +165,7 @@ We have met out aims of the task:<br>
         
 **Limitations**
 1. Did not explore non-linear relationship between hospitalisation bill with other quantitative features:
-    - Such non-lineaer relationships if identified will allow us to obtain other prominent quantitative cost driving factors, as we observed minimal of among the other important features assessed post-modelling.
+    - Such non-lineaer relationships if identified will allow us to obtain other prominent quantitative cost driving factors, as we observed minimal of these among the other important features assessed post-modelling.
     - We can achieve this by transforming the quantitative variables (log2, exponential, square root, polynomial transformations) and assess their correlation with the hospital bill
 1. Patient's personal and family financial well-being not accounted for:
     - This affects the level of subsidy a patient is eligible for, which will significantly affects a patient's bill ([as high as 80% subsidies](https://www.moh.gov.sg/healthcare-schemes-subsidies/subsidies-for-acute-inpatient-care-at-public-healthcare-institutions))

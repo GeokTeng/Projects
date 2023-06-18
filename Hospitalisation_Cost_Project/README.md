@@ -19,7 +19,7 @@ As hospital data scientists, we aim to:
 ## Summary of the data:
 **TOTAL BILL PER HOSPITALISATION**
 
-- Follow normal distribution
+- Does not follow normal distribution
     - As the `Shapiro-Wilk` test shows p<0.05, we reject the null hypothesis that the distribution is normally distributed → it does not follows a normal distribution.
 - The bill ranges from about 2.9K to about 99K.
 - Average bill is about \$20K.

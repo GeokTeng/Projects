@@ -80,7 +80,7 @@ We can infer that patients older in age and patients with more symptoms tend to 
 # Modelling
 ![](images/model_approach.jpg)
 ## Statistical Model Performance
-**Showing top 5 performing model based on R2 test score**
+**Showing top 5 performing model based on R2 test score**<br>
 ![](images/top5statsmodel.png)
 
 
@@ -159,7 +159,7 @@ We have met out aims of the task:<br>
     - Selected model`XGBRegressor_4fold_sub3col`
     - `R2 score` 97.8%
     - `MAPE score` 4.76%
-    - `R2 score` 1318
+    - `RMSE score` 1318
     - What this translates to is:
         - Given a patient information during hospitalisation (found in `sub3col`), it is able to estimate the hospital bill with about about 5% and SGD1.3K off the true bill value. 
         

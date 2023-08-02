@@ -1,0 +1,509 @@
+Entity,Code,Year,IncRate_per100K,Entity_type,Updated_Entity
+Afghanistan,AFG,2000,107.1,country,Afghanistan
+Afghanistan,AFG,2005,46.5,country,Afghanistan
+Afghanistan,AFG,2010,23.9,country,Afghanistan
+Afghanistan,AFG,2015,23.6,country,Afghanistan
+Algeria,DZA,2000,0.0377462634893113,country,Algeria
+Algeria,DZA,2005,0.0020214096726801,country,Algeria
+Algeria,DZA,2010,0.0012731624842227,country,Algeria
+Algeria,DZA,2015,0.0019035420202686,country,Algeria
+Angola,AGO,2000,315.6,country,Angola
+Angola,AGO,2005,299.5,country,Angola
+Angola,AGO,2010,114.2,country,Angola
+Angola,AGO,2015,124.0,country,Angola
+Argentina,ARG,2000,2.5,country,Argentina
+Argentina,ARG,2005,2.0,country,Argentina
+Argentina,ARG,2010,0.1,country,Argentina
+Argentina,ARG,2015,0.0,country,Argentina
+Azerbaijan,AZE,2000,17.9,country,Azerbaijan
+Azerbaijan,AZE,2005,2.7,country,Azerbaijan
+Azerbaijan,AZE,2010,0.5,country,Azerbaijan
+Azerbaijan,AZE,2015,0.0,country,Azerbaijan
+Bangladesh,BGD,2000,12.5,country,Bangladesh
+Bangladesh,BGD,2005,12.6,country,Bangladesh
+Bangladesh,BGD,2010,8.6,country,Bangladesh
+Bangladesh,BGD,2015,0.8,country,Bangladesh
+Belize,BLZ,2000,20.5,country,Belize
+Belize,BLZ,2005,18.7,country,Belize
+Belize,BLZ,2010,1.6,country,Belize
+Belize,BLZ,2015,0.1,country,Belize
+Benin,BEN,2000,388.8,country,Benin
+Benin,BEN,2005,420.6,country,Benin
+Benin,BEN,2010,331.6,country,Benin
+Benin,BEN,2015,293.7,country,Benin
+Bhutan,BTN,2000,26.4,country,Bhutan
+Bhutan,BTN,2005,7.0,country,Bhutan
+Bhutan,BTN,2010,1.5,country,Bhutan
+Bhutan,BTN,2015,0.1,country,Bhutan
+Bolivia,BOL,2000,24.3,country,Bolivia
+Bolivia,BOL,2005,13.6,country,Bolivia
+Bolivia,BOL,2010,8.4,country,Bolivia
+Bolivia,BOL,2015,3.9,country,Bolivia
+Botswana,BWA,2000,44.0,country,Botswana
+Botswana,BWA,2005,3.5,country,Botswana
+Botswana,BWA,2010,4.7,country,Botswana
+Botswana,BWA,2015,0.9,country,Botswana
+Brazil,BRA,2000,62.6,country,Brazil
+Brazil,BRA,2005,38.7,country,Brazil
+Brazil,BRA,2010,19.4,country,Brazil
+Brazil,BRA,2015,7.9,country,Brazil
+Burkina Faso,BFA,2000,621.6,country,Burkina Faso
+Burkina Faso,BFA,2005,549.8,country,Burkina Faso
+Burkina Faso,BFA,2010,601.4,country,Burkina Faso
+Burkina Faso,BFA,2015,389.2,country,Burkina Faso
+Burundi,BDI,2000,418.8,country,Burundi
+Burundi,BDI,2005,273.3,country,Burundi
+Burundi,BDI,2010,198.2,country,Burundi
+Burundi,BDI,2015,126.3,country,Burundi
+Cambodia,KHM,2000,207.0,country,Cambodia
+Cambodia,KHM,2005,48.7,country,Cambodia
+Cambodia,KHM,2010,20.5,country,Cambodia
+Cambodia,KHM,2015,13.0,country,Cambodia
+Cameroon,CMR,2000,461.1,country,Cameroon
+Cameroon,CMR,2005,515.7,country,Cameroon
+Cameroon,CMR,2010,321.8,country,Cameroon
+Cameroon,CMR,2015,264.2,country,Cameroon
+Cape Verde,CPV,2000,8.6,country,Cabo Verde
+Cape Verde,CPV,2005,3.6,country,Cabo Verde
+Cape Verde,CPV,2010,2.2,country,Cabo Verde
+Cape Verde,CPV,2015,0.2,country,Cabo Verde
+Central African Republic,CAF,2000,437.6,country,Central African Republic
+Central African Republic,CAF,2005,467.7,country,Central African Republic
+Central African Republic,CAF,2010,365.0,country,Central African Republic
+Central African Republic,CAF,2015,289.5,country,Central African Republic
+Chad,TCD,2000,241.5,country,Chad
+Chad,TCD,2005,259.8,country,Chad
+Chad,TCD,2010,193.9,country,Chad
+Chad,TCD,2015,163.2,country,Chad
+China,CHN,2000,0.1,country,China
+China,CHN,2005,0.1,country,China
+China,CHN,2010,0.0208272052376093,country,China
+China,CHN,2015,0.0001585451661269,country,China
+Colombia,COL,2000,59.0,country,Colombia
+Colombia,COL,2005,32.2,country,Colombia
+Colombia,COL,2010,29.8,country,Colombia
+Colombia,COL,2015,12.3,country,Colombia
+Comoros,COM,2000,280.8,country,Comoros
+Comoros,COM,2005,251.2,country,Comoros
+Comoros,COM,2010,274.6,country,Comoros
+Comoros,COM,2015,5.0,country,Comoros
+Congo,COG,2000,363.6,country,Republic of the Congo
+Congo,COG,2005,350.5,country,Republic of the Congo
+Congo,COG,2010,217.0,country,Republic of the Congo
+Congo,COG,2015,173.3,country,Republic of the Congo
+Costa Rica,CRI,2000,2.9,country,Costa Rica
+Costa Rica,CRI,2005,5.1,country,Costa Rica
+Costa Rica,CRI,2010,0.1,country,Costa Rica
+Costa Rica,CRI,2015,0.0,country,Costa Rica
+Cote d'Ivoire,CIV,2000,525.4,country,Ivory Coast
+Cote d'Ivoire,CIV,2005,530.9,country,Ivory Coast
+Cote d'Ivoire,CIV,2010,446.2,country,Ivory Coast
+Cote d'Ivoire,CIV,2015,348.8,country,Ivory Coast
+Democratic Republic of Congo,COD,2000,508.5,country,Democratic Republic of the Congo
+Democratic Republic of Congo,COD,2005,524.9,country,Democratic Republic of the Congo
+Democratic Republic of Congo,COD,2010,427.2,country,Democratic Republic of the Congo
+Democratic Republic of Congo,COD,2015,246.0,country,Democratic Republic of the Congo
+Djibouti,DJI,2000,57.3,country,Djibouti
+Djibouti,DJI,2005,40.8,country,Djibouti
+Djibouti,DJI,2010,7.7,country,Djibouti
+Djibouti,DJI,2015,25.4,country,Djibouti
+Dominican Republic,DOM,2000,0.8,country,Dominican Republic
+Dominican Republic,DOM,2005,2.3,country,Dominican Republic
+Dominican Republic,DOM,2010,1.9,country,Dominican Republic
+Dominican Republic,DOM,2015,0.3,country,Dominican Republic
+Early-demographic dividend,,2000,83.670771069992,income_class,Early-demographic dividend
+Early-demographic dividend,,2005,61.6079918532749,income_class,Early-demographic dividend
+Early-demographic dividend,,2010,47.5214447777996,income_class,Early-demographic dividend
+Early-demographic dividend,,2015,28.895022313706,income_class,Early-demographic dividend
+East Asia & Pacific,,2000,22.7361163118506,region_class,East Asia & Pacific
+East Asia & Pacific,,2005,20.6639923364865,region_class,East Asia & Pacific
+East Asia & Pacific,,2010,20.134525123502,region_class,East Asia & Pacific
+East Asia & Pacific,,2015,5.70320648126486,region_class,East Asia & Pacific
+East Asia & Pacific (IDA & IBRD),,2000,22.8317889336824,income_class,East Asia & Pacific (IDA & IBRD)
+East Asia & Pacific (IDA & IBRD),,2005,21.0652719852861,income_class,East Asia & Pacific (IDA & IBRD)
+East Asia & Pacific (IDA & IBRD),,2010,20.5036308128207,income_class,East Asia & Pacific (IDA & IBRD)
+East Asia & Pacific (IDA & IBRD),,2015,5.79766055773086,income_class,East Asia & Pacific (IDA & IBRD)
+East Asia & Pacific (excluding high income),,2000,22.811678136185,income_class,East Asia & Pacific (excluding high income)
+East Asia & Pacific (excluding high income),,2005,20.7379542015825,income_class,East Asia & Pacific (excluding high income)
+East Asia & Pacific (excluding high income),,2010,20.2063378176046,income_class,East Asia & Pacific (excluding high income)
+East Asia & Pacific (excluding high income),,2015,5.72114712744327,income_class,East Asia & Pacific (excluding high income)
+Ecuador,ECU,2000,29.2,country,Ecuador
+Ecuador,ECU,2005,4.4,country,Ecuador
+Ecuador,ECU,2010,0.4,country,Ecuador
+Ecuador,ECU,2015,0.1,country,Ecuador
+El Salvador,SLV,2000,1.4,country,El Salvador
+El Salvador,SLV,2005,0.1,country,El Salvador
+El Salvador,SLV,2010,0.0338674407099193,country,El Salvador
+El Salvador,SLV,2015,0.0052711532081533,country,El Salvador
+Equatorial Guinea,GNQ,2000,364.6,country,Equatorial Guinea
+Equatorial Guinea,GNQ,2005,391.9,country,Equatorial Guinea
+Equatorial Guinea,GNQ,2010,199.7,country,Equatorial Guinea
+Equatorial Guinea,GNQ,2015,215.1,country,Equatorial Guinea
+Eritrea,ERI,2000,23.2,country,Eritrea
+Eritrea,ERI,2005,7.9,country,Eritrea
+Eritrea,ERI,2010,23.2,country,Eritrea
+Eritrea,ERI,2015,14.5,country,Eritrea
+Ethiopia,ETH,2000,662.3,country,Ethiopia
+Ethiopia,ETH,2005,130.5,country,Ethiopia
+Ethiopia,ETH,2010,106.2,country,Ethiopia
+Ethiopia,ETH,2015,58.6,country,Ethiopia
+Fragile and conflict affected situations,,2000,319.032295012843,region_class,Fragile and conflict affected situations
+Fragile and conflict affected situations,,2005,304.801393322231,region_class,Fragile and conflict affected situations
+Fragile and conflict affected situations,,2010,247.498297756514,region_class,Fragile and conflict affected situations
+Fragile and conflict affected situations,,2015,180.369842251112,region_class,Fragile and conflict affected situations
+Gabon,GAB,2000,358.7,country,Gabon
+Gabon,GAB,2005,165.5,country,Gabon
+Gabon,GAB,2010,152.4,country,Gabon
+Gabon,GAB,2015,232.4,country,Gabon
+Gambia,GMB,2000,336.6,country,Gambia
+Gambia,GMB,2005,285.1,country,Gambia
+Gambia,GMB,2010,243.9,country,Gambia
+Gambia,GMB,2015,208.8,country,Gambia
+Georgia,GEO,2000,11.3,country,Georgia
+Georgia,GEO,2005,7.6,country,Georgia
+Georgia,GEO,2010,0.0,country,Georgia
+Georgia,GEO,2015,0.0,country,Georgia
+Ghana,GHA,2000,488.1,country,Ghana
+Ghana,GHA,2005,389.2,country,Ghana
+Ghana,GHA,2010,395.6,country,Ghana
+Ghana,GHA,2015,266.4,country,Ghana
+Guatemala,GTM,2000,16.5,country,Guatemala
+Guatemala,GTM,2005,10.2,country,Guatemala
+Guatemala,GTM,2010,1.6,country,Guatemala
+Guatemala,GTM,2015,1.4,country,Guatemala
+Guinea,GIN,2000,471.7,country,Guinea
+Guinea,GIN,2005,428.8,country,Guinea
+Guinea,GIN,2010,410.3,country,Guinea
+Guinea,GIN,2015,367.8,country,Guinea
+Guinea-Bissau,GNB,2000,433.6,country,Guinea-Bissau
+Guinea-Bissau,GNB,2005,127.6,country,Guinea-Bissau
+Guinea-Bissau,GNB,2010,101.8,country,Guinea-Bissau
+Guinea-Bissau,GNB,2015,89.3,country,Guinea-Bissau
+Guyana,GUY,2000,109.4,country,Guyana
+Guyana,GUY,2005,187.0,country,Guyana
+Guyana,GUY,2010,108.4,country,Guyana
+Guyana,GUY,2015,40.7,country,Guyana
+Haiti,HTI,2000,20.1,country,Haiti
+Haiti,HTI,2005,20.1,country,Haiti
+Haiti,HTI,2010,20.2,country,Haiti
+Haiti,HTI,2015,8.4,country,Haiti
+Heavily indebted poor countries (HIPC),,2000,407.709722751949,income_class,Heavily indebted poor countries (HIPC)
+Heavily indebted poor countries (HIPC),,2005,325.864167604433,income_class,Heavily indebted poor countries (HIPC)
+Heavily indebted poor countries (HIPC),,2010,273.737099280636,income_class,Heavily indebted poor countries (HIPC)
+Heavily indebted poor countries (HIPC),,2015,198.338374776506,income_class,Heavily indebted poor countries (HIPC)
+Honduras,HND,2000,37.9,country,Honduras
+Honduras,HND,2005,15.6,country,Honduras
+Honduras,HND,2010,8.1,country,Honduras
+Honduras,HND,2015,2.6,country,Honduras
+IBRD only,,2000,35.4505267542182,income_class,IBRD only
+IBRD only,,2005,38.3227634949277,income_class,IBRD only
+IBRD only,,2010,26.9402804580163,income_class,IBRD only
+IBRD only,,2015,15.1615485639407,income_class,IBRD only
+IDA & IBRD total,,2000,158.905590120384,income_class,IDA & IBRD total
+IDA & IBRD total,,2005,142.000419094143,income_class,IDA & IBRD total
+IDA & IBRD total,,2010,119.329550753009,income_class,IDA & IBRD total
+IDA & IBRD total,,2015,94.4005995096961,income_class,IDA & IBRD total
+IDA blend,,2000,298.219893681746,income_class,IDA blend
+IDA blend,,2005,283.636962796547,income_class,IDA blend
+IDA blend,,2010,225.660057948333,income_class,IDA blend
+IDA blend,,2015,212.22188658367,income_class,IDA blend
+IDA only,,2000,365.609740822097,income_class,IDA only
+IDA only,,2005,287.017448662995,income_class,IDA only
+IDA only,,2010,246.224668874214,income_class,IDA only
+IDA only,,2015,177.107308143545,income_class,IDA only
+IDA total,,2000,340.971384517808,income_class,IDA total
+IDA total,,2005,285.79626965163,income_class,IDA total
+IDA total,,2010,238.869561788028,income_class,IDA total
+IDA total,,2015,189.564589340425,income_class,IDA total
+India,IND,2000,42.7,country,India
+India,IND,2005,48.1,country,India
+India,IND,2010,33.1,country,India
+India,IND,2015,18.6,country,India
+Indonesia,IDN,2000,99.0,country,Indonesia
+Indonesia,IDN,2005,119.1,country,Indonesia
+Indonesia,IDN,2010,129.2,country,Indonesia
+Indonesia,IDN,2015,26.1,country,Indonesia
+Iran,IRN,2000,39.9,country,Iran
+Iran,IRN,2005,43.9,country,Iran
+Iran,IRN,2010,5.3,country,Iran
+Iran,IRN,2015,0.5,country,Iran
+Iraq,IRQ,2000,1.3,country,Iraq
+Iraq,IRQ,2005,0.0273737920801447,country,Iraq
+Iraq,IRQ,2010,0.0,country,Iraq
+Iraq,IRQ,2015,0.0,country,Iraq
+Kenya,KEN,2000,273.7,country,Kenya
+Kenya,KEN,2005,171.8,country,Kenya
+Kenya,KEN,2010,95.2,country,Kenya
+Kenya,KEN,2015,166.0,country,Kenya
+Kyrgyzstan,KGZ,2000,6.7,country,Kyrgyzstan
+Kyrgyzstan,KGZ,2005,121.3,country,Kyrgyzstan
+Kyrgyzstan,KGZ,2010,1.5,country,Kyrgyzstan
+Kyrgyzstan,KGZ,2015,0.0,country,Kyrgyzstan
+Laos,LAO,2000,77.5,country,Laos
+Laos,LAO,2005,14.0,country,Laos
+Laos,LAO,2010,17.8,country,Laos
+Laos,LAO,2015,20.9,country,Laos
+Late-demographic dividend,,2000,6.94524158748729,income_class,Late-demographic dividend
+Late-demographic dividend,,2005,3.5719725402512,income_class,Late-demographic dividend
+Late-demographic dividend,,2010,2.23987852690611,income_class,Late-demographic dividend
+Late-demographic dividend,,2015,0.922237688281576,income_class,Late-demographic dividend
+Latin America & Caribbean,,2000,38.670458404188,region_class,Latin America & Caribbean
+Latin America & Caribbean,,2005,25.1445935231851,region_class,Latin America & Caribbean
+Latin America & Caribbean,,2010,14.4090686596485,region_class,Latin America & Caribbean
+Latin America & Caribbean,,2015,10.0267639011859,region_class,Latin America & Caribbean
+Latin America & Caribbean (IDA & IBRD),,2000,38.670458404188,income_class,Latin America & Caribbean (IDA & IBRD)
+Latin America & Caribbean (IDA & IBRD),,2005,25.1445935231851,income_class,Latin America & Caribbean (IDA & IBRD)
+Latin America & Caribbean (IDA & IBRD),,2010,14.4090686596485,income_class,Latin America & Caribbean (IDA & IBRD)
+Latin America & Caribbean (IDA & IBRD),,2015,10.0267639011859,income_class,Latin America & Caribbean (IDA & IBRD)
+Latin America & Caribbean (excluding high income),,2000,38.670458404188,income_class,Latin America & Caribbean (excluding high income)
+Latin America & Caribbean (excluding high income),,2005,25.1445935231851,income_class,Latin America & Caribbean (excluding high income)
+Latin America & Caribbean (excluding high income),,2010,14.4090686596485,income_class,Latin America & Caribbean (excluding high income)
+Latin America & Caribbean (excluding high income),,2015,10.0267639011859,income_class,Latin America & Caribbean (excluding high income)
+Least developed countries: UN classification,,2000,355.91427581725,income_class,Least developed countries: UN classification
+Least developed countries: UN classification,,2005,276.758075489903,income_class,Least developed countries: UN classification
+Least developed countries: UN classification,,2010,229.497156956051,income_class,Least developed countries: UN classification
+Least developed countries: UN classification,,2015,166.397338048842,income_class,Least developed countries: UN classification
+Liberia,LBR,2000,496.8,country,Liberia
+Liberia,LBR,2005,446.8,country,Liberia
+Liberia,LBR,2010,335.1,country,Liberia
+Liberia,LBR,2015,246.2,country,Liberia
+Low & middle income,,2000,158.347117889106,income_class,Low & middle income
+Low & middle income,,2005,141.455516963054,income_class,Low & middle income
+Low & middle income,,2010,118.903789751228,income_class,Low & middle income
+Low & middle income,,2015,94.0819328688152,income_class,Low & middle income
+Low income,,2000,406.999995424982,income_class,Low income
+Low income,,2005,316.430801868845,income_class,Low income
+Low income,,2010,271.753428823846,income_class,Low income
+Low income,,2015,193.753110940432,income_class,Low income
+Lower middle income,,2000,129.84081776999,income_class,Lower middle income
+Lower middle income,,2005,125.998709171883,income_class,Lower middle income
+Lower middle income,,2010,99.6719271068533,income_class,Lower middle income
+Lower middle income,,2015,82.573626954195,income_class,Lower middle income
+Madagascar,MDG,2000,115.3,country,Madagascar
+Madagascar,MDG,2005,76.5,country,Madagascar
+Madagascar,MDG,2010,32.9,country,Madagascar
+Madagascar,MDG,2015,104.2,country,Madagascar
+Malawi,MWI,2000,432.0,country,Malawi
+Malawi,MWI,2005,321.2,country,Malawi
+Malawi,MWI,2010,419.5,country,Malawi
+Malawi,MWI,2015,188.8,country,Malawi
+Malaysia,MYS,2000,16.3,country,Malaysia
+Malaysia,MYS,2005,6.2,country,Malaysia
+Malaysia,MYS,2010,6.5,country,Malaysia
+Malaysia,MYS,2015,1.9,country,Malaysia
+Mali,MLI,2000,476.8,country,Mali
+Mali,MLI,2005,498.2,country,Mali
+Mali,MLI,2010,364.7,country,Mali
+Mali,MLI,2015,448.6,country,Mali
+Mauritania,MRT,2000,110.2,country,Mauritania
+Mauritania,MRT,2005,116.3,country,Mauritania
+Mauritania,MRT,2010,79.7,country,Mauritania
+Mauritania,MRT,2015,74.2,country,Mauritania
+Mexico,MEX,2000,4.0,country,Mexico
+Mexico,MEX,2005,1.5,country,Mexico
+Mexico,MEX,2010,0.6,country,Mexico
+Mexico,MEX,2015,0.2,country,Mexico
+Middle income,,2000,100.319155202407,income_class,Middle income
+Middle income,,2005,97.9590635137273,income_class,Middle income
+Middle income,,2010,78.2090347421987,income_class,Middle income
+Middle income,,2015,65.6089358667529,income_class,Middle income
+Mozambique,MOZ,2000,515.6,country,Mozambique
+Mozambique,MOZ,2005,442.3,country,Mozambique
+Mozambique,MOZ,2010,383.3,country,Mozambique
+Mozambique,MOZ,2015,297.7,country,Mozambique
+Myanmar,MMR,2000,78.3,country,Myanmar
+Myanmar,MMR,2005,78.1,country,Myanmar
+Myanmar,MMR,2010,79.6,country,Myanmar
+Myanmar,MMR,2015,11.8,country,Myanmar
+Namibia,NAM,2000,70.5,country,Namibia
+Namibia,NAM,2005,54.8,country,Namibia
+Namibia,NAM,2010,2.1,country,Namibia
+Namibia,NAM,2015,14.0,country,Namibia
+Nepal,NPL,2000,18.3,country,Nepal
+Nepal,NPL,2005,12.5,country,Nepal
+Nepal,NPL,2010,5.4,country,Nepal
+Nepal,NPL,2015,3.3,country,Nepal
+Nicaragua,NIC,2000,37.7,country,Nicaragua
+Nicaragua,NIC,2005,9.5,country,Nicaragua
+Nicaragua,NIC,2010,0.9,country,Nicaragua
+Nicaragua,NIC,2015,2.9,country,Nicaragua
+Niger,NER,2000,443.6,country,Niger
+Niger,NER,2005,463.1,country,Niger
+Niger,NER,2010,499.9,country,Niger
+Niger,NER,2015,356.5,country,Niger
+Nigeria,NGA,2000,497.8,country,Nigeria
+Nigeria,NGA,2005,482.6,country,Nigeria
+Nigeria,NGA,2010,416.3,country,Nigeria
+Nigeria,NGA,2015,380.8,country,Nigeria
+North Korea,PRK,2000,21.6,country,North Korea
+North Korea,PRK,2005,1.0,country,North Korea
+North Korea,PRK,2010,2.1,country,North Korea
+North Korea,PRK,2015,1.0,country,North Korea
+Pakistan,PAK,2000,44.8,country,Pakistan
+Pakistan,PAK,2005,40.3,country,Pakistan
+Pakistan,PAK,2010,13.8,country,Pakistan
+Pakistan,PAK,2015,8.6,country,Pakistan
+Panama,PAN,2000,8.9,country,Panama
+Panama,PAN,2005,28.6,country,Panama
+Panama,PAN,2010,3.0,country,Panama
+Panama,PAN,2015,3.7,country,Panama
+Papua New Guinea,PNG,2000,270.3,country,Papua New Guinea
+Papua New Guinea,PNG,2005,231.2,country,Papua New Guinea
+Papua New Guinea,PNG,2010,181.8,country,Papua New Guinea
+Papua New Guinea,PNG,2015,122.2,country,Papua New Guinea
+Paraguay,PRY,2000,78.4,country,Paraguay
+Paraguay,PRY,2005,3.9,country,Paraguay
+Paraguay,PRY,2010,0.2,country,Paraguay
+Paraguay,PRY,2015,0.0,country,Paraguay
+Peru,PER,2000,23.6,country,Peru
+Peru,PER,2005,26.3,country,Peru
+Peru,PER,2010,9.7,country,Peru
+Peru,PER,2015,21.2,country,Peru
+Philippines,PHL,2000,4.3,country,Philippines
+Philippines,PHL,2005,4.9,country,Philippines
+Philippines,PHL,2010,1.7,country,Philippines
+Philippines,PHL,2015,0.4,country,Philippines
+Pre-demographic dividend,,2000,404.588109169031,income_class,Pre-demographic dividend
+Pre-demographic dividend,,2005,369.247835160179,income_class,Pre-demographic dividend
+Pre-demographic dividend,,2010,302.410181564893,income_class,Pre-demographic dividend
+Pre-demographic dividend,,2015,240.934903385575,income_class,Pre-demographic dividend
+Rwanda,RWA,2000,425.8,country,Rwanda
+Rwanda,RWA,2005,174.5,country,Rwanda
+Rwanda,RWA,2010,105.9,country,Rwanda
+Rwanda,RWA,2015,301.3,country,Rwanda
+Sao Tome and Principe,STP,2000,343.8,country,Sao Tome and Principe
+Sao Tome and Principe,STP,2005,198.0,country,Sao Tome and Principe
+Sao Tome and Principe,STP,2010,28.6,country,Sao Tome and Principe
+Sao Tome and Principe,STP,2015,17.8,country,Sao Tome and Principe
+Saudi Arabia,SAU,2000,6.0,country,Saudi Arabia
+Saudi Arabia,SAU,2005,0.2,country,Saudi Arabia
+Saudi Arabia,SAU,2010,0.0281338473958319,country,Saudi Arabia
+Saudi Arabia,SAU,2015,0.1,country,Saudi Arabia
+Senegal,SEN,2000,233.9,country,Senegal
+Senegal,SEN,2005,117.8,country,Senegal
+Senegal,SEN,2010,140.5,country,Senegal
+Senegal,SEN,2015,97.6,country,Senegal
+Sierra Leone,SLE,2000,486.0,country,Sierra Leone
+Sierra Leone,SLE,2005,468.5,country,Sierra Leone
+Sierra Leone,SLE,2010,482.0,country,Sierra Leone
+Sierra Leone,SLE,2015,302.8,country,Sierra Leone
+Solomon Islands,SLB,2000,475.7,country,Solomon Islands
+Solomon Islands,SLB,2005,470.5,country,Solomon Islands
+Solomon Islands,SLB,2010,134.1,country,Solomon Islands
+Solomon Islands,SLB,2015,67.0,country,Solomon Islands
+Somalia,SOM,2000,110.0,country,Somalia
+Somalia,SOM,2005,164.8,country,Somalia
+Somalia,SOM,2010,38.3,country,Somalia
+Somalia,SOM,2015,85.5,country,Somalia
+South Africa,ZAF,2000,12.3,country,South Africa
+South Africa,ZAF,2005,4.9,country,South Africa
+South Africa,ZAF,2010,4.8,country,South Africa
+South Africa,ZAF,2015,3.1,country,South Africa
+South Asia,,2000,43.5414868026593,region_class,South Asia
+South Asia,,2005,46.09339629977,region_class,South Asia
+South Asia,,2010,29.6244395900557,region_class,South Asia
+South Asia,,2015,16.8640529666416,region_class,South Asia
+South Asia (IDA & IBRD),,2000,43.5414868026593,income_class,South Asia (IDA & IBRD)
+South Asia (IDA & IBRD),,2005,46.0933962997699,income_class,South Asia (IDA & IBRD)
+South Asia (IDA & IBRD),,2010,29.6244395900557,income_class,South Asia (IDA & IBRD)
+South Asia (IDA & IBRD),,2015,16.8640529666416,income_class,South Asia (IDA & IBRD)
+South Korea,KOR,2000,2.8,country,South Korea
+South Korea,KOR,2005,0.9,country,South Korea
+South Korea,KOR,2010,0.8,country,South Korea
+South Korea,KOR,2015,0.8,country,South Korea
+South Sudan,SSD,2000,297.4,country,South Sudan
+South Sudan,SSD,2005,226.0,country,South Sudan
+South Sudan,SSD,2010,180.1,country,South Sudan
+South Sudan,SSD,2015,156.0,country,South Sudan
+Sri Lanka,LKA,2000,107.0,country,Sri Lanka
+Sri Lanka,LKA,2005,0.8,country,Sri Lanka
+Sri Lanka,LKA,2010,0.3,country,Sri Lanka
+Sri Lanka,LKA,2015,0.0,country,Sri Lanka
+Sub-Saharan Africa,,2000,422.510846603664,region_class,Sub-Saharan Africa
+Sub-Saharan Africa,,2005,354.42414590392,region_class,Sub-Saharan Africa
+Sub-Saharan Africa,,2010,293.211683139294,region_class,Sub-Saharan Africa
+Sub-Saharan Africa,,2015,234.292104885826,region_class,Sub-Saharan Africa
+Sub-Saharan Africa (IDA & IBRD),,2000,422.510846603664,income_class,Sub-Saharan Africa (IDA & IBRD)
+Sub-Saharan Africa (IDA & IBRD),,2005,354.42414590392,income_class,Sub-Saharan Africa (IDA & IBRD)
+Sub-Saharan Africa (IDA & IBRD),,2010,293.211683139294,income_class,Sub-Saharan Africa (IDA & IBRD)
+Sub-Saharan Africa (IDA & IBRD),,2015,234.292104885826,income_class,Sub-Saharan Africa (IDA & IBRD)
+Sub-Saharan Africa (excluding high income),,2000,422.510846603664,income_class,Sub-Saharan Africa (excluding high income)
+Sub-Saharan Africa (excluding high income),,2005,354.42414590392,income_class,Sub-Saharan Africa (excluding high income)
+Sub-Saharan Africa (excluding high income),,2010,293.211683139294,income_class,Sub-Saharan Africa (excluding high income)
+Sub-Saharan Africa (excluding high income),,2015,234.292104885826,income_class,Sub-Saharan Africa (excluding high income)
+Sudan,SDN,2000,92.6,country,Sudan
+Sudan,SDN,2005,71.9,country,Sudan
+Sudan,SDN,2010,35.5,country,Sudan
+Sudan,SDN,2015,36.6,country,Sudan
+Suriname,SUR,2000,231.9,country,Suriname
+Suriname,SUR,2005,173.5,country,Suriname
+Suriname,SUR,2010,30.6,country,Suriname
+Suriname,SUR,2015,1.7,country,Suriname
+Swaziland,SWZ,2000,12.6,country,Eswatini
+Swaziland,SWZ,2005,6.3,country,Eswatini
+Swaziland,SWZ,2010,3.2,country,Eswatini
+Swaziland,SWZ,2015,1.4,country,Eswatini
+Tajikistan,TJK,2000,18.3,country,Tajikistan
+Tajikistan,TJK,2005,2.0,country,Tajikistan
+Tajikistan,TJK,2010,0.1,country,Tajikistan
+Tajikistan,TJK,2015,0.0,country,Tajikistan
+Tanzania,TZA,2000,406.8,country,Tanzania
+Tanzania,TZA,2005,287.2,country,Tanzania
+Tanzania,TZA,2010,175.6,country,Tanzania
+Tanzania,TZA,2015,113.9,country,Tanzania
+Thailand,THA,2000,11.9,country,Thailand
+Thailand,THA,2005,6.4,country,Thailand
+Thailand,THA,2010,6.3,country,Thailand
+Thailand,THA,2015,2.7,country,Thailand
+Timor,TLS,2000,482.6,country,Timor Leste
+Timor,TLS,2005,436.7,country,Timor Leste
+Timor,TLS,2010,174.2,country,Timor Leste
+Timor,TLS,2015,0.2,country,Timor Leste
+Togo,TGO,2000,517.5,country,Togo
+Togo,TGO,2005,494.7,country,Togo
+Togo,TGO,2010,458.0,country,Togo
+Togo,TGO,2015,345.1,country,Togo
+Turkey,TUR,2000,1741.0,country,Turkey
+Turkey,TUR,2005,295.8,country,Turkey
+Turkey,TUR,2010,0.0,country,Turkey
+Turkey,TUR,2015,0.0,country,Turkey
+Uganda,UGA,2000,516.8,country,Uganda
+Uganda,UGA,2005,477.6,country,Uganda
+Uganda,UGA,2010,429.1,country,Uganda
+Uganda,UGA,2015,218.3,country,Uganda
+Upper middle income,,2000,8.99818191588954,income_class,Upper middle income
+Upper middle income,,2005,6.03938096575286,income_class,Upper middle income
+Upper middle income,,2010,3.74980444902234,income_class,Upper middle income
+Upper middle income,,2015,3.55443772768937,income_class,Upper middle income
+Uzbekistan,UZB,2000,5.6,country,Uzbekistan
+Uzbekistan,UZB,2005,4.3,country,Uzbekistan
+Uzbekistan,UZB,2010,0.1,country,Uzbekistan
+Uzbekistan,UZB,2015,0.0,country,Uzbekistan
+Vanuatu,VUT,2000,135.0,country,Vanuatu
+Vanuatu,VUT,2005,131.3,country,Vanuatu
+Vanuatu,VUT,2010,82.0,country,Vanuatu
+Vanuatu,VUT,2015,3.3,country,Vanuatu
+Venezuela,VEN,2000,29.7,country,Venezuela
+Venezuela,VEN,2005,27.2,country,Venezuela
+Venezuela,VEN,2010,25.2,country,Venezuela
+Venezuela,VEN,2015,68.4,country,Venezuela
+Vietnam,VNM,2000,6.3,country,Vietnam
+Vietnam,VNM,2005,1.2,country,Vietnam
+Vietnam,VNM,2010,0.7,country,Vietnam
+Vietnam,VNM,2015,0.3,country,Vietnam
+World,OWID_WRL,2000,158.124351287658,world,World
+World,OWID_WRL,2005,141.25669568402,world,World
+World,OWID_WRL,2010,118.740387984633,world,World
+World,OWID_WRL,2015,93.9562869200627,world,World
+Yemen,YEM,2000,80.0,country,Yemen
+Yemen,YEM,2005,56.8,country,Yemen
+Yemen,YEM,2010,41.9,country,Yemen
+Yemen,YEM,2015,22.2,country,Yemen
+Zambia,ZMB,2000,382.2,country,Zambia
+Zambia,ZMB,2005,243.4,country,Zambia
+Zambia,ZMB,2010,155.9,country,Zambia
+Zambia,ZMB,2015,173.7,country,Zambia
+Zimbabwe,ZWE,2000,143.2,country,Zimbabwe
+Zimbabwe,ZWE,2005,142.5,country,Zimbabwe
+Zimbabwe,ZWE,2010,129.6,country,Zimbabwe
+Zimbabwe,ZWE,2015,114.2,country,Zimbabwe

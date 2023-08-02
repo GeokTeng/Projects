@@ -73,7 +73,7 @@ Top 3 ASEAN countries are being compared on Incidence Rate, Death Rate, & Total 
 ![](images/fig_3.jpg)<br>
 
 Top 3 ASEAN countries Age Group Deaths compared to regions and world (Year 1990, 2000, 2015):
-- According to [Our World in Data](https://ourworldindata.org/malaria#), at a global level, the most vulnerable age group to malaria deaths are children under five years old.
+- According to [Our Wordl in Data](https://ourworldindata.org/malaria#), at a global level, the most vulnerable age group to malaria deaths are children under five years old.
 
 |**OBSERVATION**|**DESCRIPTION**|
 |---|---|
